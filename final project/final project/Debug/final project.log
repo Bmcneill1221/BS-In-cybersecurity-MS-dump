@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(23,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(47,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(56,19): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(62,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(151,13): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(152,10): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Blaze\source\repos\final project\final project\Source.cpp(158,19): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  final project.vcxproj -> C:\Users\Blaze\source\repos\final project\Debug\final project.exe

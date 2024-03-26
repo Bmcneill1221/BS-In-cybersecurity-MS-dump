@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(11,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(12,2): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(12,6): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(12,6): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(13,2): error C2065: 'imul': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(13,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(13,7): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(14,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(14,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(14,7): error C2146: syntax error: missing ';' before identifier 'x2'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(14,10): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(15,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(15,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(15,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(15,7): error C2065: 'ebx': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(16,3): error C2146: syntax error: missing ';' before identifier 'imul'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(16,3): error C2065: 'imul': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(16,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(16,8): error C2065: 'ebx': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(17,3): error C2065: 'add': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(17,7): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(17,12): error C2065: 'ebx': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(18,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(18,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'dotProduct'
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(18,19): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project27\Project27\Source.cpp(19,2): error C2143: syntax error: missing ';' before '}'

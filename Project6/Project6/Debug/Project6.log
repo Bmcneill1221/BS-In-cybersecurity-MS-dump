@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Blaze\source\repos\Project6\Project6\Source.cpp(8,12): warning C4101: 'num2': unreferenced local variable
+  Project6.vcxproj -> C:\Users\Blaze\source\repos\Project6\Debug\Project6.exe

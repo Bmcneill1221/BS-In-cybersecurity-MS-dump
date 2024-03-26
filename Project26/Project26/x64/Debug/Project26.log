@@ -1,0 +1,54 @@
+﻿  Source.cpp
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(8,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(9,2): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(9,6): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(9,6): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(10,2): error C2065: 'add': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(10,6): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(10,6): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(11,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(11,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(11,7): error C2146: syntax error: missing ';' before identifier 'z'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(11,10): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(12,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(14,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(15,2): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(15,6): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(15,6): error C2065: 'ebx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(16,2): error C2065: 'sub': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(16,6): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(16,6): error C2065: 'ebx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(17,2): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(17,2): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(17,6): error C2146: syntax error: missing ';' before identifier 'z'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(17,8): error C2065: 'ebx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(19,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(21,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(22,2): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(22,6): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(22,6): error C2065: 'ecx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(23,2): error C2065: 'imul': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(23,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(23,7): error C2065: 'ecx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(24,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'z'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(24,9): error C2065: 'ecx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(25,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(27,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(28,2): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(28,6): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(28,6): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(29,2): error C2065: 'cdq': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(30,3): error C2146: syntax error: missing ';' before identifier 'idiv'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(30,3): error C2065: 'idiv': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(30,8): error C2146: syntax error: missing ';' before identifier 'y'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(31,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(31,7): error C2146: syntax error: missing ';' before identifier 'z'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(31,10): error C2065: 'eax': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(32,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(32,3): error C2065: 'mov': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(32,7): error C2146: syntax error: missing ';' before identifier 'remainder'
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(32,18): error C2065: 'edx': undeclared identifier
+C:\Users\Blaze\source\repos\Project26\Project26\Source.cpp(32,35): error C2065: 'xy': undeclared identifier

@@ -1,0 +1,7 @@
+﻿  Assembling properFactors.asm...
+MASM : warning A4018: invalid command-line option : /safeseh
+properFactors.asm(1): error A2008: syntax error : .
+properFactors.asm(2): error A2008: syntax error : .
+properFactors.asm(13): error A2008: syntax error : ebx
+properFactors.asm(104): fatal error A1010: unmatched block nesting : properFactors
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /safeseh /Zi /Fo"x64\Debug\properFactors.obj" /W3 /errorReport:prompt  /TaproperFactors.asm" exited with code 1.

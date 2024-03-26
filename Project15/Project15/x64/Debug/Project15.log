@@ -1,0 +1,5 @@
+﻿  BstTestApp.cpp
+  bst.cpp
+  Generating Code...
+BstTestApp.obj : error LNK2019: unresolved external symbol "public: __cdecl BST::~BST(void)" (??1BST@@QEAA@XZ) referenced in function main
+C:\Users\Blaze\source\repos\Project15\x64\Debug\Project15.exe : fatal error LNK1120: 1 unresolved externals

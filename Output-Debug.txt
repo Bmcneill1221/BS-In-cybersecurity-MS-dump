@@ -1,0 +1,14 @@
+﻿'The FActors Are.exe' (Win32): Loaded 'C:\Users\Blaze\source\repos\The FActors Are\Debug\The FActors Are.exe'. Symbols loaded.
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0xdb14 has exited with code 0 (0x0).
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'The FActors Are.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0xdba0 has exited with code 0 (0x0).
+The thread 0xdba4 has exited with code 0 (0x0).
+The program '[56064] The FActors Are.exe' has exited with code 0 (0x0).

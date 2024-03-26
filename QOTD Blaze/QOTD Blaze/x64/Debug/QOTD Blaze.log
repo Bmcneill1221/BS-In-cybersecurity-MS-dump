@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Blaze\source\repos\QOTD Blaze\QOTD Blaze\FileName.cpp(53,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  QOTD Blaze.vcxproj -> C:\Users\Blaze\source\repos\QOTD Blaze\x64\Debug\QOTD Blaze.exe

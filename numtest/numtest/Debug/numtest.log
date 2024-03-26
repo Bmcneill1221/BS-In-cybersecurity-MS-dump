@@ -1,0 +1,8 @@
+﻿  numtest.cpp
+C:\Users\Blaze\source\repos\numtest\numtest\numtest.cpp(247,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Blaze\source\repos\numtest\numtest\numtest.cpp(254,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Blaze\source\repos\numtest\numtest\numtest.cpp(261,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Blaze\source\repos\numtest\numtest\numtest.cpp(267,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Blaze\source\repos\numtest\numtest\numtest.cpp(271,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Blaze\source\repos\numtest\numtest\numtest.cpp(277,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  numtest.vcxproj -> C:\Users\Blaze\source\repos\numtest\Debug\numtest.exe

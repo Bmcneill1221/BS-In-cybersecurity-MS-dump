@@ -1,0 +1,12 @@
+Sirloin-Steak
+550
+Baked-Potato
+390
+Corn-on-the-Cob
+290
+END
+Corn-on-the-Cob
+END
+Baked-Potato
+Fried-Chicken
+END

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Blaze\source\repos\convert to bin\convert to bin\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Blaze\source\repos\convert to bin\convert to bin\Source.cpp(32,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  convert to bin.vcxproj -> C:\Users\Blaze\source\repos\convert to bin\Debug\convert to bin.exe
